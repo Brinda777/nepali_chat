@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "715411025116",
+    "project_id": "hamro-chat-28adc",
+    "storage_bucket": "hamro-chat-28adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715411025116:android:87ba4fda30e6d5a9dad819",
+        "android_client_info": {
+          "package_name": "com.example.nepali_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715411025116-p6upsujqrhtq7jr77qgu1mifjnhref5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEi087gJRXM1Uw1LZO1nK7DMElfweNbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715411025116-p6upsujqrhtq7jr77qgu1mifjnhref5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715411025116-udo7j5l6rqbqoa9r8sgctihlvm1hg9mv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nepalichat.nepaliChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
